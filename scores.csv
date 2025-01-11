@@ -5,3 +5,4 @@ subscription,"Produces software-as-a-service",-1
 nonprofit,"Non-profit organization",1.5
 ads,"Running ads",-0.5
 tracking,"Tracking users or running targetted ads",-1
+warranty,"Sells hardware with less than 2 years of manufacturer warranty",-0.5
