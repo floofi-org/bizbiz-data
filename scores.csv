@@ -1,7 +1,7 @@
 id,description,value
 public,"Publicly traded",-2
 gdpr,"Not in a country that enforces GDPR",-0.5
-subscription,"Produces software-as-a-service",-1
+saas,"Produces software-as-a-service",-1
 nonprofit,"Non-profit organization",1.5
 ads,"Running ads",-0.5
 tracking,"Tracking users or running targetted ads",-1
