@@ -1,0 +1,30 @@
+{
+  "public": {
+    "description": "Publicly traded",
+    "value": -2
+  },
+  "gdpr": {
+    "description": "Not in a country that enforces GDPR",
+    "value": -0.5
+  },
+  "saas": {
+    "description": "Produces software-as-a-service",
+    "value": -1
+  },
+  "nonprofit": {
+    "description": "Non-profit organization",
+    "value": 1.5
+  },
+  "ads": {
+    "description": "Runs ads",
+    "value": -0.5
+  },
+  "tracking": {
+    "description": "Tracks users or running targetted ads",
+    "value": -1
+  },
+  "warranty": {
+    "description": "Sells hardware with less than 2 years of warranty",
+    "value": -2
+  }
+}
