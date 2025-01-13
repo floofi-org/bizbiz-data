@@ -4,7 +4,7 @@
     "value": -2.5
   },
   "gdpr": {
-    "description": "Not in a country that enforces GDPR",
+    "description": "Not in a country that enforces the EU's GDPR privacy regulations",
     "value": -0.5
   },
   "saas": {
