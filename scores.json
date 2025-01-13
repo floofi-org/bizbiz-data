@@ -1,7 +1,7 @@
 {
   "public": {
     "description": "Publicly traded",
-    "value": -2
+    "value": -2.5
   },
   "gdpr": {
     "description": "Not in a country that enforces GDPR",
@@ -26,5 +26,45 @@
   "warranty": {
     "description": "Sells hardware with less than 2 years of warranty",
     "value": -2
+  },
+  "perpetual": {
+    "description": "Sells perpertual software licenses",
+    "value": 0.5
+  },
+  "developer": {
+    "description": "Provides developer tooling and documentation for free",
+    "value": 1
+  },
+  "ai": {
+    "description": "Endorses or promotes non-scientifical AI",
+    "value": -1.5
+  },
+  "data": {
+    "description": "Suffered from a data leak due to improper security",
+    "value": -3
+  },
+  "e2ee": {
+    "description": "Uses end-to-end encryption"
+    "value": 1
+  },
+  "monopoly": {
+    "description": "Holds a monopoly or near-monopoly in its industry",
+    "value": -1
+  },
+  "greenwashing": {
+    "description": "Uses greenwashing as a marketing strategy",
+    "value": -0.5
+  },
+  "discrimination": {
+    "description": "Endorses or enables discrimination",
+    "value": -1.5
+  },
+  "lifetime": {
+    "description": "Sells hardware products with less than 5 years of life time",
+    "value": -0.5
+  },
+  "opensource": {
+    "description": "Contributes to open-source software",
+    "value": 0.5
   }
 }
